@@ -70,7 +70,7 @@
 <h2 align="center">我的进展</h2>
 
 <div align="center">
-    <img src="https://github-stats.x-lf.com/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css&locale=cn" style="height: 180px">
+    <img src="https://github-stats.x-lf.com/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css,typescript&locale=cn" style="height: 180px">
     <img src="https://github-stats.x-lf.com/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn" style="height: 180px">
 </div>
 
