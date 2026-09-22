@@ -69,8 +69,8 @@
 <h2 align="center">我的进展</h2>
 
 <div align="center">
-    <img src="https://github-stats.x-lf.com/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css,typescript&locale=cn" style="height: 180px">
-    <img src="https://github-stats.x-lf.com/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=cn" style="height: 180px">
+    <img src="./github-top-langs.svg" style="height: 180px">
+    <img src="./github-stats.svg" style="height: 180px">
 </div>
 
 <p align="center">欢迎来到我的 GitHub！🍀 如果你对我的代码感兴趣，欢迎一起合作开发哦~</p>
